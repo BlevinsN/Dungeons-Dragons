@@ -24,3 +24,4 @@ class html_object:
 		self.casting_time = casting_time
 		self.level = level 
 		self.attack_type = attack_type
+
